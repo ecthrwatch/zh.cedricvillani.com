@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zh.cedricvillani.com/sitemap-index.xml
